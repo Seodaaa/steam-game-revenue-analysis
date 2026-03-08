@@ -47,8 +47,6 @@ The analysis suggests that review score by itself is not a strong predictor of p
 ## Repository Contents
 - `Final_Report.ipynb` — main notebook containing data cleaning, analysis, and modeling
 - `README.md` — project summary and instructions
-- `data/` — data files used in the project
-- `figures/` — exported charts and visuals, if included
 
 ## How to Run
 1. Clone this repository
