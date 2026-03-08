@@ -13,6 +13,12 @@ This project combines public data from multiple sources, including:
 - IGDB
 - Publisher-level revenue data from Gamealytic
 
+## Data Access
+The full dataset used in this project is not stored directly in this repository due to file size constraints.  
+It can be accessed here: https://drive.google.com/drive/folders/1z_VWI4PvBe0ZC6yWh-vsAcXTmQEarZid?usp=sharing
+
+This repository contains the notebook, code, and project documentation needed to understand the analysis.
+
 ## Tools Used
 - Jupyter Notebook
 - Python
