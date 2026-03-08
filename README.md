@@ -19,6 +19,12 @@ It can be accessed here: https://drive.google.com/drive/folders/1z_VWI4PvBe0ZC6y
 
 This repository contains the notebook, code, and project documentation needed to understand the analysis.
 
+## Data Schema
+
+The diagram below shows the main tables and key relationships used in the analysis.
+
+![Data schema](Data%20Schema.png)
+
 ## Tools Used
 - Jupyter Notebook
 - Python
