@@ -51,4 +51,4 @@ This project uses publicly available data, so some business variables that may a
 Future work could incorporate richer commercial and visibility data, improve feature engineering for engagement, and test additional modeling approaches.
 
 ## Author
-Skye Huang
+Skye Huang and Alen Chan
